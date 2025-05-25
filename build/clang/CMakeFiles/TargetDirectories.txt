@@ -1,0 +1,3 @@
+C:/Users/Maxim/Documents/C++/PetRender/RGUI/build/clang/CMakeFiles/RGUI.dir
+C:/Users/Maxim/Documents/C++/PetRender/RGUI/build/clang/CMakeFiles/edit_cache.dir
+C:/Users/Maxim/Documents/C++/PetRender/RGUI/build/clang/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+C:\PROGRA~1\LLVM\bin\llvm-ar.exe qc RGUI.lib CMakeFiles/RGUI.dir/src/window_widget.cpp.obj
+C:\PROGRA~1\LLVM\bin\llvm-ranlib.exe RGUI.lib

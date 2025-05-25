@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Maxim\Documents\C++\PetRender\GUILib\build\msvc\CMakeFiles\d2b7fb8cf55160b37297beaea67fadec\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F849C956-8C54-3733-BD14-8D9C48FAC2FF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
